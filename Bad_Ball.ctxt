@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bad_Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ ldavoll\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ It\ tells\ the\ Bad_Ball\ what\ it\ needs\ to\ do\ and\ how\ to\ do\ it.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Tells\ it\ how\ to\ move.\r\n
+comment3.params=
+comment3.target=void\ checkForBounce()
+comment3.text=\r\n\ Tells\ it\ how\ to\ bounce\ off\ paddles,\ but\ if\ it\ does\ bounce\ off\ a\r\n\ paddle\ it\ will\ take\ away\ a\ point\ from\ the\ person\ whose\ paddle\ it\r\n\ bounced\ off\ of.\r\n
+comment4.params=
+comment4.target=void\ bouncePaddle()
+comment4.text=\r\n\ Stops\ the\ sticky\ paddle.\r\n
+comment5.params=
+comment5.target=void\ incinerate()
+comment5.text=\r\n\ Tells\ it\ how\ to\ Incinerate,\ its\ one\ perpose.\r\n
+numComments=6
